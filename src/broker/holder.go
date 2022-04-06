@@ -2,7 +2,7 @@ package holder
 
 import (
 	"fmt"
-	"github.com/magicnana999/embru/util"
+	"github.com/go-embru/embru/util"
 	"net"
 )
 
