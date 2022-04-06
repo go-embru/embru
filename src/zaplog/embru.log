@@ -1,0 +1,2 @@
+2022-04-06 20:56:44.448 INFO zaplog/zaplog.go:112 embru/src/zaplog.Infof appName 192.168.1.1 8080 xxxxx span - www.baidu.com这是一个描述 [binggo]
+2022-04-06 20:56:58.233 INFO zaplog/zaplog.go:112 embru/src/zaplog.Infof appName 192.168.1.1 8080 xxxxx span - www.baidu.com这是一个描述 [binggo] 
